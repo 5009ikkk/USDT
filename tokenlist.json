@@ -1,18 +1,11 @@
 {
-  "name": "USDT",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  },
   "tokens": [
     {
       "chainId": 728126428,
       "address": "TCBqN6jRRqXtJA4wqcMTDoqDc2eGYPbXcQ",
       "name": "TETHER",
       "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/5009ikkk/USDT/main/logo.png"
+      "decimals": 6
     }
   ]
 }
