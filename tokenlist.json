@@ -1,19 +1,12 @@
 {
-  "name": "My Token List",
-  "timestamp": "2025-01-01T00:00:00.000Z",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  },
-  "tokens": [
-    {
-      "chainId": 728126428,
-      "address": "TCBqN6jRRqXtJA4wqcMTDoqDc2eGYPbXcQ",
-      "name": "TETHER",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/tron/assets/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t/logo.png"
-    }
-  ]
+  "name": "TETHER",
+  "symbol": "USDT",
+  "type": "TRC20",
+  "decimals": 6,
+  "description": "USDT is a TRC20 token deployed on the TRON network.",
+  "website": "",
+  "explorer": "https://tronscan.org/#/token20/TCBqN6jRRqXtJA4wqcMTDoqDc2eGYPbXcQ",
+  "status": "active",
+  "id": "TCBqN6jRRqXtJA4wqcMTDoqDc2eGYPbXcQ",
+  "logoURI": "https://raw.githubusercontent.com/5009ikkk/USDT/main/logo.png"
 }
