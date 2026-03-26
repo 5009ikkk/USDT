@@ -1,8 +1,6 @@
 {
-  "name": "My Custom Token List",
-  "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets/blockchains/tron/info/logo.png",
-  "keywords": ["tron", "trc20", "custom"],
-  "timestamp": "2026-03-26T12:00:00.000Z",
+  "name": "My Token List",
+  "timestamp": "2025-01-01T00:00:00.000Z",
   "version": {
     "major": 1,
     "minor": 0,
