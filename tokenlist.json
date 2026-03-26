@@ -1,5 +1,5 @@
 {
-  "name": "Custom Token List",
+  "name": "My Token List",
   "timestamp": "2023-03-26T00:00:00.000Z",
   "version": {
     "major": 1,
@@ -8,7 +8,7 @@
   },
   "tokens": [
     {
-      "chainId": 728126428,
+      "chainId": 1,
       "address": "TCBqN6jRRqXtJA4wqcMTDoqDc2eGYPbXcQ",
       "name": "TETHER",
       "symbol": "USDT",
